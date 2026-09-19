@@ -13,7 +13,7 @@
 | Version | 1.0                                                                            |
 | Author | Kidsplor Product Team                                                         |
 | Status | Draft — For Developer Review                                                   |
-| Related Doc | [Kidsplor Provider Portal BRD v1.0](https://gaurangmp.github.io/Kidsplor-Documentation/Kidsplor_phase2-Provider/) |
+| Related Doc | [Kidsplor Provider Portal BRD v1.0](https://gaurangmp.github.io/Kidsplor-Documentation/Kidsplor_phase2-Provider) |
 | Target Release | TBC                                                                            |
 
 ---
