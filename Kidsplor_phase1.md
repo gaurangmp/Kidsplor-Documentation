@@ -28,7 +28,7 @@
 6. [Integration Requirements](#6-integration-requirements)
 7. [User Stories — Priority Matrix](#7-user-stories-priority-matrix)
 8. [Acceptance Criteria — Critical Flows](#8-acceptance-criteria-critical-flows)
-9. [Data Model — Key Entities (Parent-Side, High Level)](#9-data-model-key-entities-parent-side-high-level)
+9. [Data Model — Key Entities (Parent-Side, High Level)](#9-data-model-key-entities-parent-side-and-high-level)
 10. [Open Questions for Developer Team](#10-open-questions-for-developer-team)
 11. [Glossary](#11-glossary)
 
@@ -95,7 +95,7 @@ Parent Portal (Web App — Phase 1)
 
 ---
 
-## 4. Phase 1 — Functional Requirements (MVP)
+## 4. Phase 1 Functional Requirements MVP
 
 ---
 
@@ -329,6 +329,7 @@ A dedicated page for each class, containing:
 A parent can initiate a booking from:
 - The "Book Now" button on a Class card (search results).
 - The "Book Now" CTA on the Class Detail Page.
+- Apply quantitaive metric to "Book Now" i.e. how many users' clicked the button.
 
 ### FR-07: Provider Listings
 **Priority:** P0
@@ -341,7 +342,6 @@ On the listing view, the parent can compare upto 3 listings using a compare butt
 - The parent can:
   - View Price, Rating, Schedule, Frequency, Delivery, Trial, Distance, Address, Contact no.
   - CTA Favorites, Directions and Call
----
 
 ### FR-08: Scraper or a Service to Enter Providers in Bulk
 
@@ -404,7 +404,7 @@ On the listing view, the parent can compare upto 3 listings using a compare butt
 
 ---
 
-## 7. User Stories — Priority Matrix
+## 7. User Stories Priority Matrix
 
 | ID | User Story | Phase | Priority | Phase
 |---|---|---|---|---|
@@ -439,7 +439,7 @@ On the listing view, the parent can compare upto 3 listings using a compare butt
 
 ---
 
-## 8. Acceptance Criteria — Critical Flows
+## 8. Acceptance Criteria Critical Flows
 
 ### AC-01: Search & Discovery
 - [ ] Searching "soccer 8 year old Melbourne" returns relevant class results within 1.5s.
@@ -450,7 +450,7 @@ On the listing view, the parent can compare upto 3 listings using a compare butt
 - [ ] Medical notes and additional needs fields are not visible in any public-facing UI.
 - [ ] When a child is selected in the booking flow, their additional needs note is shown with a "Shared with provider" disclosure.
 
-## 9. Data Model — Key Entities (Parent-Side, High Level)
+## 9. Data Model Key Entities Parent Side and High Level)
 
 ```
 Parent
