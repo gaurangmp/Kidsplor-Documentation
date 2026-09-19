@@ -13,7 +13,7 @@
 | Version | 1.0                                                                            |
 | Author | Kidsplor Product Team                                                         |
 | Status | Draft — For Developer Review                                                   |
-| Related Doc | [Kidsplor Provider Portal BRD v1.0](https://gaurangmp.github.io/kidsplor-BRD/) |
+| Related Doc | [Kidsplor Provider Portal BRD v1.0](https://gaurangmp.github.io/Kidsplor-Documentation/Kidsplor_phase2-Provider/) |
 | Target Release | TBC                                                                            |
 
 ---
@@ -23,12 +23,12 @@
 1. [Executive Summary](#1-executive-summary)
 2. [User Personas](#2-user-personas)
 3. [System Overview](#3-system-overview)
-4. [Phase 1 — Functional Requirements (MVP)](#4-phase-1-functional-requirements-mvp)
+4. [Phase 1 — Functional Requirements (MVP)](#4-phase-1--functional-requirements-mvp)
 5. [Non-Functional Requirements](#5-non-functional-requirements)
 6. [Integration Requirements](#6-integration-requirements)
-7. [User Stories — Priority Matrix](#7-user-stories-priority-matrix)
-8. [Acceptance Criteria — Critical Flows](#8-acceptance-criteria-critical-flows)
-9. [Data Model — Key Entities (Parent-Side, High Level)](#9-data-model-key-entities-parent-side-and-high-level)
+7. [User Stories — Priority Matrix](#7-user-stories--priority-matrix)
+8. [Acceptance Criteria — Critical Flows](#8-acceptance-criteria--critical-flows)
+9. [Data Model — Key Entities (Parent Side and High Level)](#9-data-model--key-entities-parent-side-and-high-level)
 10. [Open Questions for Developer Team](#10-open-questions-for-developer-team)
 11. [Glossary](#11-glossary)
 
@@ -95,7 +95,7 @@ Parent Portal (Web App — Phase 1)
 
 ---
 
-## 4. Phase 1 Functional Requirements MVP
+## 4. Phase 1 — Functional Requirements (MVP)
 
 ---
 
@@ -450,7 +450,7 @@ On the listing view, the parent can compare upto 3 listings using a compare butt
 - [ ] Medical notes and additional needs fields are not visible in any public-facing UI.
 - [ ] When a child is selected in the booking flow, their additional needs note is shown with a "Shared with provider" disclosure.
 
-## 9. Data Model Key Entities Parent Side and High Level)
+## 9. Data Model — Key Entities (Parent Side and High Level)
 
 ```
 Parent
