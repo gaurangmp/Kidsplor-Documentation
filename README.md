@@ -1,7 +1,7 @@
 # Kidsplor — Portal Documentation Index
 
 ## Kidsplor
- - [Phase 1](https://gaurangmp.github.io/Kidsplor_phase1.md)
+ - [Phase 1](https://gaurangmp.github.io/kidsplor-Parent-BRD/Kidsplor_phase1)
  - Phase 2
  - Phase 3
 <!-- # [Kidsplor Phase 2](https://gaurangmp.github.io/kidsplor-Parent-BRD/) -->
