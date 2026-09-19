@@ -1,4 +1,4 @@
-# Kidsplorr — Provider Portal
+# Kidsplor — Provider Portal
 ## Business Requirements Document (BRD)
 ### Version 1.0 · Phase 1 · May 2026
 
