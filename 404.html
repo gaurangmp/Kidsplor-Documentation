@@ -1,21 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Redirecting...</title>
-    <script>
-        window.onload = () => {
-            const currentURL = window.location.href;
-            const lowerCaseURL = currentURL.toLowerCase();
-            
-            // If the URL contains uppercase letters, redirect to the lowercase version
-            if (currentURL !== lowerCaseURL) {
-                window.location.replace(lowerCaseURL);
-            }
-        };
-    </script>
-</head>
-<body>
-    <p>Redirecting to the correct page...</p>
-</body>
-</html>
+<!--
+Source - https://stackoverflow.com/a/73263779
+Posted by Anmol Agrawal
+Retrieved 2026-09-19, License - CC BY-SA 4.0
+-->
+
+<script>
+    window.onload = () => {
+        currentURL = window.location.href;
+        lowerCaseURL = currentURL.toLowerCase();
+        if (currentURL != lowerCaseURL) {
+            location.replace(lowerCaseURL);
+        }
+    };
+</script>
